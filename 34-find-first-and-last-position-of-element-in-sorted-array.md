@@ -1,8 +1,7 @@
-[question](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
-在数组中找到给定数字的firstIndex和lastIndex
+[question](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array//)
 
-我将找index这块扔给js了，只需要再反转数组求一次index
+找一个数字在数组中的index和lastIndex：循环数组得到最大的index和最小的index返回，时间复杂度是O(n)
 
 ```js
 /**
@@ -11,10 +10,8 @@
  * @return {number[]}
  */
 var searchRange = function(nums, target) {
-    const index = nums.indexOf(target);
+   const index = nums.indexOf(target);
     if (index === -1) return [-1, -1]
-    const reverseIndex = nums.reverse().indexOf(target);
-    const lastIndex = nums.length - 1 - reverseIndex;
-    return [index, lastIndex];
-};
+  return [index, nums.lastIndexOf(target)];
+}
 ```
