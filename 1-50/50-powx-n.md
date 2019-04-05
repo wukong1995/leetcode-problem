@@ -24,3 +24,29 @@ class Solution:
 ```
 
 需要去找好的办法去解决。
+
+找到了好的解决办法，[思路在这](https://wukong1995.github.io/2019/03/31/leetcode-50-problem/)
+
+```js
+var myPow = function(x, n) {
+  const pow = (x, n) => {
+    let result = 1;
+    let sum = x;
+
+    while(n > 0) {
+      if (n % 2 === 1) {
+        result *= sum;
+      }
+
+      sum *= sum;
+      n = parseInt(n / 2);
+    }
+
+    return result;
+  }
+
+  if(n < 0) return 1 / pow(x, -n);
+
+  return pow(x, n);
+};
+```
