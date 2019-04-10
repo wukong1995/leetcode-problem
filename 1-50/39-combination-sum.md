@@ -1,4 +1,4 @@
-[question](https://leetcode.com/problems/two-sum/)
+[question](https://leetcode.com/problems/combination-sum/)
 
 在给定不重复的数组中，找到全部元素组合的和为给定数字。
 
