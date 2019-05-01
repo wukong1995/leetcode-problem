@@ -1,4 +1,4 @@
-# leetcode-problem (totalCount: 98)
+# leetcode-problem (totalCount: 100)
 ### 1-50
 [1-two-sum.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/1-two-sum.md)
 [12-integer-to-roman.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/12-integer-to-roman.md)
@@ -70,12 +70,14 @@
 [173-binary-search-tree-iterator.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/173-binary-search-tree-iterator.md)
 [175-combine-two-tables.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/175-combine-two-tables.md)
 [189-rotate-array.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/189-rotate-array.md)
+[191-number-of-1-bits.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/191-number-of-1-bits.md)
 [199-binary-tree-right-side-view.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/199-binary-tree-right-side-view.md)
 ### 201-250
 [206-reverse-linked-list.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/206-reverse-linked-list.md)
 [222-count-complete-tree-nodes.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/222-count-complete-tree-nodes.md)
 [226-invert-binary-tree.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/226-invert-binary-tree.md)
 [230-kth-smallest-element-in-a-bst.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/230-kth-smallest-element-in-a-bst.md)
+[231-power-of-two.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/231-power-of-two.md)
 [235-lowest-common-ancestor-of-a-binary-search-tree.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/235-lowest-common-ancestor-of-a-binary-search-tree.md)
 ### 251-300
 [257-binary-tree-paths.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/257-binary-tree-paths.md)
