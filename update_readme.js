@@ -14,11 +14,11 @@ fs.readdir('./', function (error, filesInRoot) {
         const files = fs.readdirSync(item);
         files.forEach(file => {
           totalCount ++;
-          content += `[${file}](https://github.com/wukong1995/leetcode-problem/blob/master/${item}/${file})\r\n`;
+          content += `[${file}](https://github.com/wukong1995/leetcode-problem/blob/master/${item}/${file})\r\n\r`;
         });
       }
     });
-    content = `# leetcode-problem (totalCount: ${totalCount})\r\n` + content;
+    content = `# leetcode-problem (total count: ${totalCount})\r\n` + content;
     fs.writeFileSync('./README.md', content, 'utf8');
   }
 });
