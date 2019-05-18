@@ -1,4 +1,4 @@
-# leetcode-problem (total count: 109)
+# leetcode-problem (total count: 110)
 ### 1-50
 [1-two-sum.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/1-two-sum.md)
 [11-container-with-most-water.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/11-container-with-most-water.md)
@@ -85,6 +85,7 @@
 ### 251-300
 [.DS_Store](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/.DS_Store)
 [257-binary-tree-paths.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/257-binary-tree-paths.md)
+[271-contains-duplicate.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/271-contains-duplicate.md)
 ### 501-550
 [509-fibonacci-number.md](https://github.com/wukong1995/leetcode-problem/blob/master/501-550/509-fibonacci-number.md)
 ### 51-100
