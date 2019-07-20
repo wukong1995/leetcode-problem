@@ -1,4 +1,4 @@
-# leetcode-problem (total count: 117)
+# leetcode-problem (total count: 120)
 <details><summary>1-50(count: 34)</summary>
 
 [1-two-sum.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/1-two-sum.md)
@@ -79,7 +79,7 @@
 [189-rotate-array.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/189-rotate-array.md)
 [191-number-of-1-bits.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/191-number-of-1-bits.md)
 [199-binary-tree-right-side-view.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/199-binary-tree-right-side-view.md)
-</details><details><summary>201-250(count: 10)</summary>
+</details><details><summary>201-250(count: 11)</summary>
 
 [206-reverse-linked-list.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/206-reverse-linked-list.md)
 [209-minimum-size-subarray-sum.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/209-minimum-size-subarray-sum.md)
@@ -87,15 +87,18 @@
 [222-count-complete-tree-nodes.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/222-count-complete-tree-nodes.md)
 [226-invert-binary-tree.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/226-invert-binary-tree.md)
 [228-summary-ranges.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/228-summary-ranges.md)
+[229-majority-element-ii.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/229-majority-element-ii.md)
 [230-kth-smallest-element-in-a-bst.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/230-kth-smallest-element-in-a-bst.md)
 [231-power-of-two.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/231-power-of-two.md)
 [235-lowest-common-ancestor-of-a-binary-search-tree.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/235-lowest-common-ancestor-of-a-binary-search-tree.md)
 [238-product-of-array-except-self.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/238-product-of-array-except-self.md)
-</details><details><summary>251-300(count: 3)</summary>
+</details><details><summary>251-300(count: 5)</summary>
 
 [257-binary-tree-paths.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/257-binary-tree-paths.md)
 [269-missing-number.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/269-missing-number.md)
 [271-contains-duplicate.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/271-contains-duplicate.md)
+[283-move-zeroes.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/283-move-zeroes.md)
+[287-find-the-duplicate-number.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/287-find-the-duplicate-number.md)
 </details><details><summary>501-550(count: 1)</summary>
 
 [509-fibonacci-number.md](https://github.com/wukong1995/leetcode-problem/blob/master/501-550/509-fibonacci-number.md)
