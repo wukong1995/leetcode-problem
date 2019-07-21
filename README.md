@@ -1,4 +1,4 @@
-# leetcode-problem (total count: 120)
+# leetcode-problem (total count: 121)
 <details><summary>1-50(count: 34)</summary>
 
 [1-two-sum.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/1-two-sum.md)
@@ -79,7 +79,7 @@
 [189-rotate-array.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/189-rotate-array.md)
 [191-number-of-1-bits.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/191-number-of-1-bits.md)
 [199-binary-tree-right-side-view.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/199-binary-tree-right-side-view.md)
-</details><details><summary>201-250(count: 11)</summary>
+</details><details><summary>201-250(count: 12)</summary>
 
 [206-reverse-linked-list.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/206-reverse-linked-list.md)
 [209-minimum-size-subarray-sum.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/209-minimum-size-subarray-sum.md)
@@ -91,6 +91,7 @@
 [230-kth-smallest-element-in-a-bst.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/230-kth-smallest-element-in-a-bst.md)
 [231-power-of-two.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/231-power-of-two.md)
 [235-lowest-common-ancestor-of-a-binary-search-tree.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/235-lowest-common-ancestor-of-a-binary-search-tree.md)
+[236-lowest-common-ancestor-of-a-binary-tree.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/236-lowest-common-ancestor-of-a-binary-tree.md)
 [238-product-of-array-except-self.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/238-product-of-array-except-self.md)
 </details><details><summary>251-300(count: 5)</summary>
 
