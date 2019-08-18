@@ -3,22 +3,31 @@
 判断两棵树是否相同，使用深度优先即可
 
 ```js
-var isSameTree = function (p, q) {
-  return dfs(p, q);
-};
-
-var dfs = function(tree1, tree2) {
-  if(tree1 === null || tree2 === null) {
-    if(tree1 === tree2) {
-      return true;
-    }
-
-    return false;
+/**
+ * Definition for a binary tree node.
+ * function TreeNode(val) {
+ *     this.val = val;
+ *     this.left = this.right = null;
+ * }
+ */
+/**
+ * @param {TreeNode} p
+ * @param {TreeNode} q
+ * @return {boolean}
+ */
+var isSameTree = function(p, q) {
+  if (p === null && q === null) {
+    return true
   }
-  if (tree1.val !== tree2.val) {
-    return false;
+
+  if (p === null || q === null) {
+    return false
   }
 
-  return dfs(tree1.left, tree2.left) && dfs(tree1.right, tree2.right);
+  if (p.val !== q.val) {
+    return false
+  }
+
+  return isSameTree(p.left, q.left) && isSameTree(p.right, q.right)
 };
 ```
