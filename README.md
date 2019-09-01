@@ -1,4 +1,4 @@
-# leetcode-problem (total count: 126)
+# leetcode-problem (total count: 127)
 <details><summary>1-50(count: 34)</summary>
 
 [1-two-sum.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/1-two-sum.md)
@@ -103,9 +103,10 @@
 [271-contains-duplicate.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/271-contains-duplicate.md)
 [283-move-zeroes.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/283-move-zeroes.md)
 [287-find-the-duplicate-number.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/287-find-the-duplicate-number.md)
-</details><details><summary>401-450(count: 1)</summary>
+</details><details><summary>401-450(count: 2)</summary>
 
-[448-find-all-numbers-disappeared-in-an-array.md](https://github.com/wukong1995/leetcode-problem/blob/master/401-450/448-find-all-numbers-disappeared-in-an-array.md)
+[442-find-all-duplicates-in-an-array.md](https://github.com/wukong1995/leetcode-problem/blob/master/401-450/442-find-all-duplicates-in-an-array.md)
+[448-find-all-numbers-disappeared-in-an-array.md](https://github.com/wukong1995/leetcode-problem/blob/master/401-450/448-find-all-numbers-disappeared-in-an-array.md)
 </details><details><summary>501-550(count: 1)</summary>
 
 [509-fibonacci-number.md](https://github.com/wukong1995/leetcode-problem/blob/master/501-550/509-fibonacci-number.md)
