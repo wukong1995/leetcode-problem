@@ -1,4 +1,4 @@
-# leetcode-problem (total count: 130)
+# leetcode-problem (total count: 132)
 <details><summary>1-50(count: 34)</summary>
 
 [1-two-sum.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/1-two-sum.md)
@@ -63,7 +63,7 @@
 [141-linked-list-cycle.md](https://github.com/wukong1995/leetcode-problem/blob/master/101-150/141-linked-list-cycle.md)
 [144-binary-tree-preorder-traversal.md](https://github.com/wukong1995/leetcode-problem/blob/master/101-150/144-binary-tree-preorder-traversal.md)
 [150-evaluate-reverse-polish-notation.md](https://github.com/wukong1995/leetcode-problem/blob/master/101-150/150-evaluate-reverse-polish-notation.md)
-</details><details><summary>151-200(count: 15)</summary>
+</details><details><summary>151-200(count: 16)</summary>
 
 [151-reverse-words-in-a-string.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/151-reverse-words-in-a-string.md)
 [152-maximum-product-subarray.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/152-maximum-product-subarray.md)
@@ -78,6 +78,7 @@
 [173-binary-search-tree-iterator.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/173-binary-search-tree-iterator.md)
 [175-combine-two-tables.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/175-combine-two-tables.md)
 [189-rotate-array.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/189-rotate-array.md)
+[190-reverse-bits.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/190-reverse-bits.md)
 [191-number-of-1-bits.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/191-number-of-1-bits.md)
 [199-binary-tree-right-side-view.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/199-binary-tree-right-side-view.md)
 </details><details><summary>201-250(count: 16)</summary>
@@ -106,6 +107,9 @@
 [271-contains-duplicate.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/271-contains-duplicate.md)
 [283-move-zeroes.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/283-move-zeroes.md)
 [287-find-the-duplicate-number.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/287-find-the-duplicate-number.md)
+</details><details><summary>301-350(count: 1)</summary>
+
+[338-counting-bits.md](https://github.com/wukong1995/leetcode-problem/blob/master/301-350/338-counting-bits.md)
 </details><details><summary>401-450(count: 2)</summary>
 
 [442-find-all-duplicates-in-an-array.md](https://github.com/wukong1995/leetcode-problem/blob/master/401-450/442-find-all-duplicates-in-an-array.md)
