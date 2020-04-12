@@ -1,5 +1,5 @@
-# leetcode-problem (total count: 141)
-<details><summary>1-50(count: 34)</summary>
+# leetcode-problem (total count: 145)
+<details><summary>1-50(count: 35)</summary>
 
 [1-two-sum.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/1-two-sum.md)
 [11-container-with-most-water.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/11-container-with-most-water.md)
@@ -31,11 +31,12 @@
 [47-permutations-ii.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/47-permutations-ii.md)
 [48-rotate-image.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/48-rotate-image.md)
 [49-group-anagrams.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/49-group-anagrams.md)
+[5-longest-palindromic-substring.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/5-longest-palindromic-substring.md)
 [50-powx-n.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/50-powx-n.md)
 [6-zigzag-conversion.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/6-zigzag-conversion.md)
 [7-reverse-integer.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/7-reverse-integer.md)
 [9-palindrome-number.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/9-palindrome-number.md)
-</details><details><summary>101-150(count: 26)</summary>
+</details><details><summary>101-150(count: 27)</summary>
 
 [101-symmetric-tree.md](https://github.com/wukong1995/leetcode-problem/blob/master/101-150/101-symmetric-tree.md)
 [102-binary-tree-level-order-traversal.md](https://github.com/wukong1995/leetcode-problem/blob/master/101-150/102-binary-tree-level-order-traversal.md)
@@ -61,9 +62,10 @@
 [136-single-number.md](https://github.com/wukong1995/leetcode-problem/blob/master/101-150/136-single-number.md)
 [139-word-break.md](https://github.com/wukong1995/leetcode-problem/blob/master/101-150/139-word-break.md)
 [141-linked-list-cycle.md](https://github.com/wukong1995/leetcode-problem/blob/master/101-150/141-linked-list-cycle.md)
+[142-linked-list-cycle-ii.md](https://github.com/wukong1995/leetcode-problem/blob/master/101-150/142-linked-list-cycle-ii.md)
 [144-binary-tree-preorder-traversal.md](https://github.com/wukong1995/leetcode-problem/blob/master/101-150/144-binary-tree-preorder-traversal.md)
 [150-evaluate-reverse-polish-notation.md](https://github.com/wukong1995/leetcode-problem/blob/master/101-150/150-evaluate-reverse-polish-notation.md)
-</details><details><summary>151-200(count: 22)</summary>
+</details><details><summary>151-200(count: 24)</summary>
 
 [151-reverse-words-in-a-string.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/151-reverse-words-in-a-string.md)
 [152-maximum-product-subarray.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/152-maximum-product-subarray.md)
@@ -80,6 +82,8 @@
 [175-combine-two-tables.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/175-combine-two-tables.md)
 [176-second-highest-salary.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/176-second-highest-salary.md)
 [181-employees-earning-more-than-their-managers.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/181-employees-earning-more-than-their-managers.md)
+[182-duplicate-emails.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/182-duplicate-emails.md)
+[183-customers-who-never-order.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/183-customers-who-never-order.md)
 [184-department-highest-salary.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/184-department-highest-salary.md)
 [189-rotate-array.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/189-rotate-array.md)
 [190-reverse-bits.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/190-reverse-bits.md)
