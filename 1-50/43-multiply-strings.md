@@ -26,3 +26,36 @@ var convertNum = (str) => {
   return sum;
 };
 ```
+
+解题：只能一位一位的计算，有大于9的情况，必须使用取余的方式存储
+
+```js
+/**
+ * @param {string} num1
+ * @param {string} num2
+ * @return {string}
+ */
+var multiply = function (num1, num2) {
+  if (num1 === '0' || num2 === '0') return '0';
+
+  const m = num1.length;
+  const n = num2.length;
+  const vals = new Array(m + n).fill(0);
+
+
+  for (let i = m - 1; i >= 0; --i) {
+    for (let j = n - 1; j >= 0; --j) {
+      const mul = (+num1[i]) * (+num2[j]);
+      const p1 = i + j;
+      const p2 = i + j + 1;
+      const sum = mul + vals[p2];
+      vals[p1] += Math.floor(sum / 10);
+      vals[p2] = sum % 10;
+    }
+  }
+
+
+  return vals.join('').replace(/^0+(?!$)/, '')
+};
+```
+

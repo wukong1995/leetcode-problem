@@ -1,4 +1,4 @@
-# leetcode-problem (total count: 145)
+# leetcode-problem (total count: 151)
 <details><summary>1-50(count: 35)</summary>
 
 [1-two-sum.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/1-two-sum.md)
@@ -65,7 +65,7 @@
 [142-linked-list-cycle-ii.md](https://github.com/wukong1995/leetcode-problem/blob/master/101-150/142-linked-list-cycle-ii.md)
 [144-binary-tree-preorder-traversal.md](https://github.com/wukong1995/leetcode-problem/blob/master/101-150/144-binary-tree-preorder-traversal.md)
 [150-evaluate-reverse-polish-notation.md](https://github.com/wukong1995/leetcode-problem/blob/master/101-150/150-evaluate-reverse-polish-notation.md)
-</details><details><summary>151-200(count: 24)</summary>
+</details><details><summary>151-200(count: 30)</summary>
 
 [151-reverse-words-in-a-string.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/151-reverse-words-in-a-string.md)
 [152-maximum-product-subarray.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/152-maximum-product-subarray.md)
@@ -88,6 +88,12 @@
 [189-rotate-array.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/189-rotate-array.md)
 [190-reverse-bits.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/190-reverse-bits.md)
 [191-number-of-1-bits.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/191-number-of-1-bits.md)
+[192-word-frequency.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/192-word-frequency.md)
+[193-valid-phone-numbers.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/193-valid-phone-numbers.md)
+[194-transpose-file.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/194-transpose-file.md)
+[195-tenth-line.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/195-tenth-line.md)
+[196-delete-duplicate-emails.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/196-delete-duplicate-emails.md)
+[197-rising-temperature.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/197-rising-temperature.md)
 [198-house-robber.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/198-house-robber.md)
 [199-binary-tree-right-side-view.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/199-binary-tree-right-side-view.md)
 [200-number-of-islands.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/200-number-of-islands.md)
