@@ -1,4 +1,4 @@
-# leetcode-problem (total count: 164)
+# leetcode-problem (total count: 168)
 <details><summary>1-50(count: 35)</summary>
 
 [1-two-sum.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/1-two-sum.md)
@@ -130,14 +130,18 @@
 [235-lowest-common-ancestor-of-a-binary-search-tree.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/235-lowest-common-ancestor-of-a-binary-search-tree.md)
 [236-lowest-common-ancestor-of-a-binary-tree.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/236-lowest-common-ancestor-of-a-binary-tree.md)
 [238-product-of-array-except-self.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/238-product-of-array-except-self.md)
-</details><details><summary>251-300(count: 6)</summary>
+</details><details><summary>251-300(count: 10)</summary>
 
 [257-binary-tree-paths.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/257-binary-tree-paths.md)
 [258-add-digits.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/258-add-digits.md)
+[263-ugly-number.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/263-ugly-number.md)
+[264-ugly-number-ii.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/264-ugly-number-ii.md)
 [269-missing-number.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/269-missing-number.md)
 [271-contains-duplicate.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/271-contains-duplicate.md)
+[278-first-bad-version.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/278-first-bad-version.md)
 [283-move-zeroes.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/283-move-zeroes.md)
 [287-find-the-duplicate-number.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/287-find-the-duplicate-number.md)
+[290-word-pattern.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/290-word-pattern.md)
 </details><details><summary>301-350(count: 1)</summary>
 
 [338-counting-bits.md](https://github.com/wukong1995/leetcode-problem/blob/master/301-350/338-counting-bits.md)
