@@ -1,4 +1,4 @@
-# leetcode-problem (total count: 168)
+# leetcode-problem (total count: 171)
 <details><summary>1-50(count: 35)</summary>
 
 [1-two-sum.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/1-two-sum.md)
@@ -104,7 +104,7 @@
 [198-house-robber.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/198-house-robber.md)
 [199-binary-tree-right-side-view.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/199-binary-tree-right-side-view.md)
 [200-number-of-islands.md](https://github.com/wukong1995/leetcode-problem/blob/master/151-200/200-number-of-islands.md)
-</details><details><summary>201-250(count: 24)</summary>
+</details><details><summary>201-250(count: 27)</summary>
 
 [201-bitwise-and-of-numbers-range.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/201-bitwise-and-of-numbers-range.md)
 [202-happy-number.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/202-happy-number.md)
@@ -130,6 +130,9 @@
 [235-lowest-common-ancestor-of-a-binary-search-tree.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/235-lowest-common-ancestor-of-a-binary-search-tree.md)
 [236-lowest-common-ancestor-of-a-binary-tree.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/236-lowest-common-ancestor-of-a-binary-tree.md)
 [238-product-of-array-except-self.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/238-product-of-array-except-self.md)
+[240-search-a-2d-matrix-ii.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/240-search-a-2d-matrix-ii.md)
+[241-different-ways-to-add-parentheses.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/241-different-ways-to-add-parentheses.md)
+[242-valid-anagram.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/242-valid-anagram.md)
 </details><details><summary>251-300(count: 10)</summary>
 
 [257-binary-tree-paths.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/257-binary-tree-paths.md)
