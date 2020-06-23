@@ -1,4 +1,4 @@
-# leetcode-problem (total count: 172)
+# leetcode-problem (total count: 178)
 <details><summary>1-50(count: 35)</summary>
 
 [1-two-sum.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/1-two-sum.md)
@@ -134,7 +134,7 @@
 [240-search-a-2d-matrix-ii.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/240-search-a-2d-matrix-ii.md)
 [241-different-ways-to-add-parentheses.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/241-different-ways-to-add-parentheses.md)
 [242-valid-anagram.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/242-valid-anagram.md)
-</details><details><summary>251-300(count: 10)</summary>
+</details><details><summary>251-300(count: 12)</summary>
 
 [257-binary-tree-paths.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/257-binary-tree-paths.md)
 [258-add-digits.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/258-add-digits.md)
@@ -142,13 +142,20 @@
 [264-ugly-number-ii.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/264-ugly-number-ii.md)
 [269-missing-number.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/269-missing-number.md)
 [271-contains-duplicate.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/271-contains-duplicate.md)
+[274-h-index.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/274-h-index.md)
+[275-h-index-ii.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/275-h-index-ii.md)
 [278-first-bad-version.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/278-first-bad-version.md)
 [283-move-zeroes.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/283-move-zeroes.md)
 [287-find-the-duplicate-number.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/287-find-the-duplicate-number.md)
 [290-word-pattern.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/290-word-pattern.md)
-</details><details><summary>301-350(count: 1)</summary>
+</details><details><summary>301-350(count: 3)</summary>
 
-[338-counting-bits.md](https://github.com/wukong1995/leetcode-problem/blob/master/301-350/338-counting-bits.md)
+[326-power-of-three.md](https://github.com/wukong1995/leetcode-problem/blob/master/301-350/326-power-of-three.md)
+[338-counting-bits.md](https://github.com/wukong1995/leetcode-problem/blob/master/301-350/338-counting-bits.md)
+[374-guess-number-higher-or-lower.md](https://github.com/wukong1995/leetcode-problem/blob/master/301-350/374-guess-number-higher-or-lower.md)
+</details><details><summary>351-400(count: 1)</summary>
+
+[378-kth-smallest-element-in-a-sorted-matrix.md](https://github.com/wukong1995/leetcode-problem/blob/master/351-400/378-kth-smallest-element-in-a-sorted-matrix.md)
 </details><details><summary>401-450(count: 2)</summary>
 
 [442-find-all-duplicates-in-an-array.md](https://github.com/wukong1995/leetcode-problem/blob/master/401-450/442-find-all-duplicates-in-an-array.md)
@@ -188,9 +195,10 @@
 </details><details><summary>601-650(count: 1)</summary>
 
 [637-average-of-levels-in-binary-tree.md](https://github.com/wukong1995/leetcode-problem/blob/master/601-650/637-average-of-levels-in-binary-tree.md)
-</details><details><summary>651-700(count: 1)</summary>
+</details><details><summary>651-700(count: 2)</summary>
 
-[700-search-in-a-binary-search-tree.md](https://github.com/wukong1995/leetcode-problem/blob/master/651-700/700-search-in-a-binary-search-tree.md)
+[658-find-k-closest-elements.md](https://github.com/wukong1995/leetcode-problem/blob/master/651-700/658-find-k-closest-elements.md)
+[700-search-in-a-binary-search-tree.md](https://github.com/wukong1995/leetcode-problem/blob/master/651-700/700-search-in-a-binary-search-tree.md)
 </details><details><summary>851-900(count: 2)</summary>
 
 [852-peak-index-in-a-mountain-array.md](https://github.com/wukong1995/leetcode-problem/blob/master/851-900/852-peak-index-in-a-mountain-array.md)
