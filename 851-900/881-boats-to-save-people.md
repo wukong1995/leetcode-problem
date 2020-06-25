@@ -1,4 +1,4 @@
-[question](https://leetcode.com/boats-to-save-people)
+[question](https://leetcode.com/problems/boats-to-save-people)
 
 一条船上限重，最多只能载两个人
 
