@@ -1,4 +1,4 @@
-# leetcode-problem (total count: 185)
+# leetcode-problem (total count: 188)
 <details><summary>1-50(count: 35)</summary>
 
 [1-two-sum.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/1-two-sum.md)
@@ -137,7 +137,7 @@
 [240-search-a-2d-matrix-ii.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/240-search-a-2d-matrix-ii.md)
 [241-different-ways-to-add-parentheses.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/241-different-ways-to-add-parentheses.md)
 [242-valid-anagram.md](https://github.com/wukong1995/leetcode-problem/blob/master/201-250/242-valid-anagram.md)
-</details><details><summary>251-300(count: 14)</summary>
+</details><details><summary>251-300(count: 17)</summary>
 
 [251-kth-largest-element-in-an-array.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/251-kth-largest-element-in-an-array.md)
 [257-binary-tree-paths.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/257-binary-tree-paths.md)
@@ -153,6 +153,9 @@
 [287-find-the-duplicate-number.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/287-find-the-duplicate-number.md)
 [289-game-of-life.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/289-game-of-life.md)
 [290-word-pattern.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/290-word-pattern.md)
+[292-nim-game.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/292-nim-game.md)
+[299-bulls-and-cows.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/299-bulls-and-cows.md)
+[300-longest-increasing-subsequence.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/300-longest-increasing-subsequence.md)
 </details><details><summary>301-350(count: 4)</summary>
 
 [.DS_Store](https://github.com/wukong1995/leetcode-problem/blob/master/301-350/.DS_Store)
