@@ -14,8 +14,10 @@ fs.readdir('./', function (error, filesInRoot) {
         content += `<details><summary>${item}(count: ${files.length})</summary>\r\n\n`;
 
         files.forEach(file => {
-          totalCount ++;
-          content += `[${file}](https://github.com/wukong1995/leetcode-problem/blob/master/${item}/${file})\r\n\r`;
+          if (!/DS_Store/.test(file)) {
+            totalCount ++;
+            content += `[${file}](https://github.com/wukong1995/leetcode-problem/blob/master/${item}/${file})\r\n\r`;
+          }
         });
 
         content += '</details>'
