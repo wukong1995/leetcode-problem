@@ -1,5 +1,5 @@
-# leetcode-problem (total count: 191)
-<details><summary>1-50(count: 36)</summary>
+# leetcode-problem (total count: 193)
+<details><summary>1-50(count: 37)</summary>
 
 [1-two-sum.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/1-two-sum.md)
 [10-regular-expression-matching.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/10-regular-expression-matching.md)
@@ -25,6 +25,7 @@
 [34-find-first-and-last-position-of-element-in-sorted-array.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/34-find-first-and-last-position-of-element-in-sorted-array.md)
 [35-search-insert-position.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/35-search-insert-position.md)
 [36-valid-sudoku.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/36-valid-sudoku.md)
+[38-count-and-say.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/38-count-and-say.md)
 [39-combination-sum.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/39-combination-sum.md)
 [40-combination-sum-ii.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/40-combination-sum-ii.md)
 [43-multiply-strings.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/43-multiply-strings.md)
@@ -175,7 +176,7 @@
 </details><details><summary>501-550(count: 1)</summary>
 
 [509-fibonacci-number.md](https://github.com/wukong1995/leetcode-problem/blob/master/501-550/509-fibonacci-number.md)
-</details><details><summary>51-100(count: 27)</summary>
+</details><details><summary>51-100(count: 28)</summary>
 
 [100-same-tree.md](https://github.com/wukong1995/leetcode-problem/blob/master/51-100/100-same-tree.md)
 [53-maximum-subarray.md](https://github.com/wukong1995/leetcode-problem/blob/master/51-100/53-maximum-subarray.md)
@@ -198,6 +199,7 @@
 [79-word-search.md](https://github.com/wukong1995/leetcode-problem/blob/master/51-100/79-word-search.md)
 [80-remove-duplicates-from-sorted-array-ii.md](https://github.com/wukong1995/leetcode-problem/blob/master/51-100/80-remove-duplicates-from-sorted-array-ii.md)
 [83-remove-duplicates-from-sorted-list.md](https://github.com/wukong1995/leetcode-problem/blob/master/51-100/83-remove-duplicates-from-sorted-list.md)
+[86-partition-list.md](https://github.com/wukong1995/leetcode-problem/blob/master/51-100/86-partition-list.md)
 [88-merge-sorted-array.md](https://github.com/wukong1995/leetcode-problem/blob/master/51-100/88-merge-sorted-array.md)
 [90-subsets-ii.md](https://github.com/wukong1995/leetcode-problem/blob/master/51-100/90-subsets-ii.md)
 [91-decode-ways.md](https://github.com/wukong1995/leetcode-problem/blob/master/51-100/91-decode-ways.md)
