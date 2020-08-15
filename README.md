@@ -1,4 +1,4 @@
-# leetcode-problem (total count: 195)
+# leetcode-problem (total count: 197)
 <details><summary>1-50(count: 37)</summary>
 
 [1-two-sum.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/1-two-sum.md)
@@ -160,15 +160,17 @@
 [292-nim-game.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/292-nim-game.md)
 [299-bulls-and-cows.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/299-bulls-and-cows.md)
 [300-longest-increasing-subsequence.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/300-longest-increasing-subsequence.md)
-</details><details><summary>301-350(count: 5)</summary>
+</details><details><summary>301-350(count: 6)</summary>
 
-[334-increasing-triplet-subsequence.md](https://github.com/wukong1995/leetcode-problem/blob/master/301-350/334-increasing-triplet-subsequence.md)
+[322-coin-change.md](https://github.com/wukong1995/leetcode-problem/blob/master/301-350/322-coin-change.md)
+[334-increasing-triplet-subsequence.md](https://github.com/wukong1995/leetcode-problem/blob/master/301-350/334-increasing-triplet-subsequence.md)
 [338-counting-bits.md](https://github.com/wukong1995/leetcode-problem/blob/master/301-350/338-counting-bits.md)
 [347-top-k-frequent-elements.md](https://github.com/wukong1995/leetcode-problem/blob/master/301-350/347-top-k-frequent-elements.md)
 [374-guess-number-higher-or-lower.md](https://github.com/wukong1995/leetcode-problem/blob/master/301-350/374-guess-number-higher-or-lower.md)
-</details><details><summary>351-400(count: 1)</summary>
+</details><details><summary>351-400(count: 2)</summary>
 
 [378-kth-smallest-element-in-a-sorted-matrix.md](https://github.com/wukong1995/leetcode-problem/blob/master/351-400/378-kth-smallest-element-in-a-sorted-matrix.md)
+[387-first-unique-character-in-a-string.md](https://github.com/wukong1995/leetcode-problem/blob/master/351-400/387-first-unique-character-in-a-string.md)
 </details><details><summary>401-450(count: 3)</summary>
 
 [414-third-maximum-number.md](https://github.com/wukong1995/leetcode-problem/blob/master/401-450/414-third-maximum-number.md)
