@@ -1,4 +1,4 @@
-# leetcode-problem (total count: 197)
+# leetcode-problem (total count: 198)
 <details><summary>1-50(count: 37)</summary>
 
 [1-two-sum.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/1-two-sum.md)
@@ -167,10 +167,11 @@
 [338-counting-bits.md](https://github.com/wukong1995/leetcode-problem/blob/master/301-350/338-counting-bits.md)
 [347-top-k-frequent-elements.md](https://github.com/wukong1995/leetcode-problem/blob/master/301-350/347-top-k-frequent-elements.md)
 [374-guess-number-higher-or-lower.md](https://github.com/wukong1995/leetcode-problem/blob/master/301-350/374-guess-number-higher-or-lower.md)
-</details><details><summary>351-400(count: 2)</summary>
+</details><details><summary>351-400(count: 3)</summary>
 
 [378-kth-smallest-element-in-a-sorted-matrix.md](https://github.com/wukong1995/leetcode-problem/blob/master/351-400/378-kth-smallest-element-in-a-sorted-matrix.md)
 [387-first-unique-character-in-a-string.md](https://github.com/wukong1995/leetcode-problem/blob/master/351-400/387-first-unique-character-in-a-string.md)
+[394-decode-string.md](https://github.com/wukong1995/leetcode-problem/blob/master/351-400/394-decode-string.md)
 </details><details><summary>401-450(count: 3)</summary>
 
 [414-third-maximum-number.md](https://github.com/wukong1995/leetcode-problem/blob/master/401-450/414-third-maximum-number.md)
