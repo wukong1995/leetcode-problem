@@ -1,4 +1,4 @@
-# leetcode-problem (total count: 198)
+# leetcode-problem (total count: 199)
 <details><summary>1-50(count: 37)</summary>
 
 [1-two-sum.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/1-two-sum.md)
@@ -160,9 +160,10 @@
 [292-nim-game.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/292-nim-game.md)
 [299-bulls-and-cows.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/299-bulls-and-cows.md)
 [300-longest-increasing-subsequence.md](https://github.com/wukong1995/leetcode-problem/blob/master/251-300/300-longest-increasing-subsequence.md)
-</details><details><summary>301-350(count: 6)</summary>
+</details><details><summary>301-350(count: 7)</summary>
 
-[322-coin-change.md](https://github.com/wukong1995/leetcode-problem/blob/master/301-350/322-coin-change.md)
+[303-range-sum-query-immutable.md](https://github.com/wukong1995/leetcode-problem/blob/master/301-350/303-range-sum-query-immutable.md)
+[322-coin-change.md](https://github.com/wukong1995/leetcode-problem/blob/master/301-350/322-coin-change.md)
 [334-increasing-triplet-subsequence.md](https://github.com/wukong1995/leetcode-problem/blob/master/301-350/334-increasing-triplet-subsequence.md)
 [338-counting-bits.md](https://github.com/wukong1995/leetcode-problem/blob/master/301-350/338-counting-bits.md)
 [347-top-k-frequent-elements.md](https://github.com/wukong1995/leetcode-problem/blob/master/301-350/347-top-k-frequent-elements.md)
