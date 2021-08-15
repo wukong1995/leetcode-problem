@@ -1,4 +1,4 @@
-# leetcode-problem (total count: 246)
+# leetcode-problem (total count: 248)
 <details><summary>1-50(count: 37)</summary>
 
 [1-two-sum.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/1-two-sum.md)
@@ -181,9 +181,11 @@
 [342-power-of-four.md](https://github.com/wukong1995/leetcode-problem/blob/master/301-350/342-power-of-four.md)
 [347-top-k-frequent-elements.md](https://github.com/wukong1995/leetcode-problem/blob/master/301-350/347-top-k-frequent-elements.md)
 [374-guess-number-higher-or-lower.md](https://github.com/wukong1995/leetcode-problem/blob/master/301-350/374-guess-number-higher-or-lower.md)
-</details><details><summary>351-400(count: 4)</summary>
+</details><details><summary>351-400(count: 6)</summary>
 
 [368-largest-divisible-subset.md](https://github.com/wukong1995/leetcode-problem/blob/master/351-400/368-largest-divisible-subset.md)
+[371-sum-of-two-integers.md](https://github.com/wukong1995/leetcode-problem/blob/master/351-400/371-sum-of-two-integers.md)
+[372-super-pow.md](https://github.com/wukong1995/leetcode-problem/blob/master/351-400/372-super-pow.md)
 [378-kth-smallest-element-in-a-sorted-matrix.md](https://github.com/wukong1995/leetcode-problem/blob/master/351-400/378-kth-smallest-element-in-a-sorted-matrix.md)
 [387-first-unique-character-in-a-string.md](https://github.com/wukong1995/leetcode-problem/blob/master/351-400/387-first-unique-character-in-a-string.md)
 [394-decode-string.md](https://github.com/wukong1995/leetcode-problem/blob/master/351-400/394-decode-string.md)
