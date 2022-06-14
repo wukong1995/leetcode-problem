@@ -1,4 +1,4 @@
-# leetcode-problem (total count: 250)
+# leetcode-problem (total count: 251)
 <details><summary>1-50(count: 37)</summary>
 
 [1-two-sum.md](https://github.com/wukong1995/leetcode-problem/blob/master/1-50/1-two-sum.md)
@@ -271,9 +271,10 @@
 
 [628-maximum-product-of-three-numbers.md](https://github.com/wukong1995/leetcode-problem/blob/master/601-650/628-maximum-product-of-three-numbers.md)
 [637-average-of-levels-in-binary-tree.md](https://github.com/wukong1995/leetcode-problem/blob/master/601-650/637-average-of-levels-in-binary-tree.md)
-</details><details><summary>651-700(count: 4)</summary>
+</details><details><summary>651-700(count: 5)</summary>
 
 [652-find-duplicate-subtrees.md](https://github.com/wukong1995/leetcode-problem/blob/master/651-700/652-find-duplicate-subtrees.md)
+[655-print-binary-tree.md](https://github.com/wukong1995/leetcode-problem/blob/master/651-700/655-print-binary-tree.md)
 [658-find-k-closest-elements.md](https://github.com/wukong1995/leetcode-problem/blob/master/651-700/658-find-k-closest-elements.md)
 [659-split-array-into-consecutive-subsequences.md](https://github.com/wukong1995/leetcode-problem/blob/master/651-700/659-split-array-into-consecutive-subsequences.md)
 [700-search-in-a-binary-search-tree.md](https://github.com/wukong1995/leetcode-problem/blob/master/651-700/700-search-in-a-binary-search-tree.md)
